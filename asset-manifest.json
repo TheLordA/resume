@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94aaaafd.chunk.css",
+    "main.js": "/static/js/main.dbdd77f2.chunk.js",
+    "main.js.map": "/static/js/main.dbdd77f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.24eeba23.chunk.js": "/static/js/2.24eeba23.chunk.js",
+    "static/js/2.24eeba23.chunk.js.map": "/static/js/2.24eeba23.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b5a928c53b45d9a8fe4b4f864c95202f.js": "/precache-manifest.b5a928c53b45d9a8fe4b4f864c95202f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.94aaaafd.chunk.css.map": "/static/css/main.94aaaafd.chunk.css.map",
+    "static/js/2.24eeba23.chunk.js.LICENSE.txt": "/static/js/2.24eeba23.chunk.js.LICENSE.txt",
+    "static/media/anassFerrak.png": "/static/media/anassFerrak.b3c10598.png",
+    "static/media/resume(French).pdf": "/static/media/resume(French).22a75b88.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.24eeba23.chunk.js",
+    "static/css/main.94aaaafd.chunk.css",
+    "static/js/main.dbdd77f2.chunk.js"
+  ]
+}
