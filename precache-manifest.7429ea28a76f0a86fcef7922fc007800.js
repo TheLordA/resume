@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2485b09735d679259e95b39312710da3",
+    "revision": "e0ea081b10cf71f1e26d8b5d2e3fbe99",
     "url": "/resume/index.html"
   },
   {
-    "revision": "d24a642a26483877f9a8",
+    "revision": "10a402902ae115110ccf",
     "url": "/resume/static/css/main.94aaaafd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/js/2.24eeba23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d24a642a26483877f9a8",
-    "url": "/resume/static/js/main.ce63b10e.chunk.js"
+    "revision": "10a402902ae115110ccf",
+    "url": "/resume/static/js/main.0f58cc5c.chunk.js"
   },
   {
     "revision": "2b17229f8e36d952a251",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/media/anassFerrak.b3c10598.png"
   },
   {
-    "revision": "22a75b88fcaaafb686f0e9bacf111d63",
-    "url": "/resume/static/media/resume(French).22a75b88.pdf"
+    "revision": "7bcbef58aaa3b73b1c0f3f44eaf162a1",
+    "url": "/resume/static/media/resume(French).7bcbef58.pdf"
   }
 ]);
